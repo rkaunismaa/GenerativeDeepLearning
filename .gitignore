@@ -1,4 +1,7 @@
 checkpoint/
 logs/
 models/
+__pycache__/
+
+03_03_vae_faces/
 
