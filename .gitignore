@@ -5,3 +5,8 @@ __pycache__/
 
 03_03_vae_faces/
 
+.ipynb_checkpoints/
+04_01_dcgan/
+04_02_wgan_gp/
+04_03_cgan/
+
