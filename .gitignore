@@ -6,6 +6,7 @@ __pycache__/
 03_03_vae_faces/
 
 .ipynb_checkpoints/
+
 04_01_dcgan/
 04_02_wgan_gp/
 04_03_cgan/
@@ -13,4 +14,9 @@ __pycache__/
 05_01_lstm/
 05_02_pixelcnn/
 05_03_pixelcnn_md/
+
+06_01_realnvp/
+
+07_01_ebm/
+
 
