@@ -10,3 +10,7 @@ __pycache__/
 04_02_wgan_gp/
 04_03_cgan/
 
+05_01_lstm/
+05_02_pixelcnn/
+05_03_pixelcnn_md/
+
