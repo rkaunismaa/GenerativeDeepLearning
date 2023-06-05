@@ -10,4 +10,8 @@ I am using Visual Studio Code to run these Jupyter notebooks instead of Jupyter 
 
 ## Friday, June 2, 2023
 
-Running the notebooks from chapter 5.
+Running the notebooks from chapter 5, 6 and 7.
+
+## Monday, June 5, 2023
+
+Running the notebooks from chapter 8. 
